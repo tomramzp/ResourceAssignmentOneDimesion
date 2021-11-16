@@ -53,7 +53,7 @@ The following code allows replicating the results from the publication:
 
 					- Section "One Dimension satellite scenario": The script allows the configuration of :
 
-					    K : Number of beams ( it must be even)
+					    	K : Number of beams ( it must be even)
 						R : Beam radius with the Bessel modelling
 						beam_cross_roll_off : Beam roll-off.
 
@@ -66,7 +66,7 @@ The following code allows replicating the results from the publication:
  					  	label_alpha{k}= Scenario Label
  					  	mkdir(label_alpha{k}), % Create folder
 
-				        Each defined scenario must be associated with a different scenario identifier "k" within the script. 		Also, a scenario label is defined to store the numerical results
+				        Each defined scenario must be associated with a different scenario identifier "k" within the script. Also, a scenario label is defined to store the numerical results
 					  and to generate later the figures with the performances of the techniques. 
 
 					- Section "System parameters": The script allows the configuration of:
@@ -83,8 +83,8 @@ The following code allows replicating the results from the publication:
 
 		        	OUTPUT: 
 
-				A parent folder is created for the storing of the numerical results. The numerical results are stored in the corresponding subfolders of the defined scenarios. Furthermore,  different
-                		information about the status of the simulation process is displayed through the command window. 
+				A parent folder is created for the storing of the numerical results. The numerical results are stored in the corresponding subfolders of the defined scenarios. Furthermore,  different 
+				information about the status of the simulation process is displayed through the command window. 
 
 				Please, ignore the message "NOTE: custom settings have been set for this solver" that is displayed due to the custom settings of MOSEK within CVX.
 
