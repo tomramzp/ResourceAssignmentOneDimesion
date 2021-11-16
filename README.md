@@ -1,9 +1,8 @@
 # Flexible User Mapping for Radio Resource Assignment in Advanced Satellite Payloads
 
 The following code allows replicating the results from the publication:
- [Flexible User Mapping for Radio Resource Assignment in Advanced Satellite Payloads](https://arxiv.org/abs/2109.09385) 
- Tomás Ramírez, Carlos Mosquera, Nader Alagha
- arXiv, 2021
+
+Tomás Ramírez, Carlos Mosquera, Nader Alagha. [Flexible User Mapping for Radio Resource Assignment in Advanced Satellite Payloads](https://arxiv.org/abs/2109.09385), arXiv, 2021
 
 # SOFTWARE REQUIREMENTS
 
